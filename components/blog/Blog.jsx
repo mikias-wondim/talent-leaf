@@ -10,7 +10,7 @@ const Blog = () => {
           <div className="inner-box">
             <div className="image-box">
               <figure className="image">
-                <Image
+              <Image
                   width={391}
                   height={258}
                   layout="responsive"
