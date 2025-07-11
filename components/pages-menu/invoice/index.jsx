@@ -52,19 +52,19 @@ const index = () => {
               <ul className="bottom-links">
                 <li>
                   <a
-                    href="https://themeforest.net/user/ib-themes"
+                    href="https://qimemsolutions.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="link"
                   >
-                    www.ibthemespro.com
+                    qimemsolutions.vercel.app
                   </a>
                 </li>
                 <li>
                   <a href="invoice@qimemsolutions.com">invoice@qimemsolutions.com</a>
                 </li>
                 <li>
-                  <a href="tel:123123456">(123) 123-456</a>
+                  <a href="tel:+251962939288">(+251) 962-939-288</a>
                 </li>
               </ul>
             </div>

@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
           name="description"
           content="TalentLeaf - Job Borad React NextJS Template"
         />
-        <meta name="ibthemes" content="ATFN" />
+        <meta name="qimem-solutions" content="ATFN" />
 
         <link rel="icon" href="./favicon.ico" />
       </head>

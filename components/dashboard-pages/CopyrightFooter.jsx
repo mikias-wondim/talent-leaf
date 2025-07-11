@@ -4,11 +4,11 @@ const CopyrightFooter = () => {
       <p>
         © {new Date().getFullYear()} TalentLeaf by{" "}
         <a
-          href="https://themeforest.net/user/ib-themes"
+          href="https://qimemsolutions.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ib-themes
+          Qimem Solutions
         </a>
         . All Right Reserved.
       </p>

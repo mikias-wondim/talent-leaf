@@ -21,13 +21,12 @@ const CopyrightFooter2 = () => {
             <div className="copyright-text">
               © {new Date().getFullYear()} TalentLeaf by{" "}
               <a
-                href="https://themeforest.net/user/ib-themes"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                ib-themes
-              </a>
-              . All Right Reserved.
+          href="https://qimemsolutions.vercel.app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Qimem Solutions
+        </a>
             </div>
           </div>
 
